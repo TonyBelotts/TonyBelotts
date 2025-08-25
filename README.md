@@ -3,10 +3,6 @@
   <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGlsYXIzZzVobGc5eHBkeTFxZzdubnh0d243NHRucWpxbTV2c2ZiYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kEj91VojVIEu0xuAFc/giphy.gif" alt="Banner" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=3000&color=3006a1&center=true&vCenter=true&width=435&lines=Welcome+aboard+the+ship!" alt="Typing SVG" />
-</div>
-
 ---
 
 <h1 align="center">:wave: Hey, I'm Tony!</h1>
